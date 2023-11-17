@@ -2,10 +2,12 @@
 
 - 💬 Ask me about **TOR, C#, PGP, & the cyberpunk dystopia of today**
 
-- 📫 How to reach me **harry.sutcliffe@owasp.org**
+- 📫 How to reach me: **harry.sutcliffe@owasp.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harry-ballerini-94883b57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harry-ballerini-94883b57/" height="30" width="40" /></a>
+<a href="https://instagram.com/@kiki_moose_and_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kiki_moose_and_me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
